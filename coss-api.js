@@ -1,8 +1,9 @@
 /* ============================================================
- * coss.io API
- * https://github.com/impmja/coss.io
+ * coss.io API Updated
+ * Original from: https://github.com/Spielley/coss.io w/ help from github user impmja
+ * Updated found: https://github.com/cryptodeal/COSSbot
  * ============================================================
- * Copyright 2018-, Jan (impmja) Schulte
+ * Copyright 2018-, May (impmja, Spielley, cryptodeal) 
  * Released under the MIT License
  * ============================================================ */
 
