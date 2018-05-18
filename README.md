@@ -9,9 +9,6 @@ Simple trading bot for Coss.io, which is meant to improve exchange liquidity and
 ```
 $ npm install
 
-or
-
-$ yarn install
 ```
 
 * Start the example app
@@ -19,7 +16,4 @@ $ yarn install
 ```
 $ npm start
 
-or
-
-$ yarn start
 ```
